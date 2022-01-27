@@ -1,0 +1,9 @@
+/*Task 7*/
+body {
+    background-color:rgb(255, 235, 230)
+}
+
+/*Task 10*/
+@media (max-width: 960px) {
+    .col {
+    text-align: justify;
